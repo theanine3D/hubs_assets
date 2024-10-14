@@ -1,4 +1,4 @@
-**Hubs Avatars © 2024 by Pedro Valencia (Theanine3D) are licensed under Creative Commons Attribution-NonCommercial 4.0 International**
+**Hubs Avatars © 2024 by Pedro Valencia (Theanine3D) are licensed under Creative Commons Attribution-NonCommercial (CC-BY-NC) 4.0 International**
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
