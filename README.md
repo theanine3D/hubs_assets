@@ -1,5 +1,5 @@
 # hubs_assets
-A place where I provide free, CC-licensed assets for Hubs, a social VR world platform.
+A place where I provide free, CC-licensed assets for [Hubs](https://hubsfoundation.org/), a social VR world platform.
 
 ## Avatars
 Ghostea - your friendly neighborhood virtual ghost. Comes in 3 varieties:
