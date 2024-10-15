@@ -4,4 +4,4 @@ A place where I provide free, CC-licensed assets for [Hubs](https://hubsfoundati
 ## Avatars
 Ghostea - your friendly neighborhood virtual ghost. Comes in 3 varieties:
 
-![1](https://github.com/user-attachments/assets/1e89d2ad-a14b-4afe-a745-ead5f93b7cfd) ![2](https://github.com/user-attachments/assets/02459382-c1a8-47fe-9a19-e941d243a43d) ![3](https://github.com/user-attachments/assets/c7df2b21-1061-4257-861a-c86cca8d0b83)
+![1](https://github.com/user-attachments/assets/843df9c1-e36a-40ca-9cfd-1ce5ea97bd6c) ![2](https://github.com/user-attachments/assets/7426c48d-c748-4de1-b7c2-237afaa41b41) ![3](https://github.com/user-attachments/assets/35d0f959-6c56-4ba6-90b7-47c44baf1b06)
